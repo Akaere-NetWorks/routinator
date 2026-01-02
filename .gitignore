@@ -5,3 +5,5 @@
 /doc/manual/build/
 .vscode/
 .DS_Store
+
+CLAUDE.md
